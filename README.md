@@ -10,3 +10,7 @@
 #### feature/login -> commit 1
 #### feature/login -> commit 2
 #### feature/login -> commit 3
+
+#### feature/cadastro -> commit 1
+#### feature/cadastro -> commit 2
+#### feature/cadastro -> commit 3
